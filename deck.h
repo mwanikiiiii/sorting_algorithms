@@ -48,12 +48,3 @@ typedef struct deck_node_s
 void sort_deck(deck_node_t **deck);
 
 #endif /* DECK_H */
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-C
